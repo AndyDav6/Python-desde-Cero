@@ -22,3 +22,6 @@ print(mi_booleano)
 # Tipo de dato String o cadena de texto 
 mi_striing = "¡Hola mundo!"
 print(mi_striing)
+
+"""Type: es para hacer decir que tipo de dato estamos
+ enviando al terminal"""
