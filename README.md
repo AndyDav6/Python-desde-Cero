@@ -10,7 +10,7 @@ BASICO
 - Arreglos
 - Flujo de control (condicionales, ciclo básico: for, while y do while, recorrer arreglos)
 
-INTERMEDIO/AVANZADO
+INTERMEDIO
 
 - Objetos
 - Callbacks
@@ -18,6 +18,8 @@ INTERMEDIO/AVANZADO
 - Recursividad
 - Hosting
 - Asincronia
+
+AVANZADO
 
 - Programación Orieentada a Objetos (POO)
 - Test driven development (TDD)

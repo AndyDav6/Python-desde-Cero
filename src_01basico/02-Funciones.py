@@ -40,12 +40,12 @@ multiplicar = lambda x, y: x * y
 print(multiplicar(5,3))
 
 # Funciones con numeros variables de argumentos
-# *args: permite pasar un numero variable de argumento no nombrados
+''' *args: permite pasar un numero variable de argumento no nombrados'''
 def sumar_todos(*args):
     return sum(args)
 print(sumar_todos(3, 6, 9 ,12))
 
-# **kwargs: permite pasar un numero variable de argumentos con nombre
+''' **kwargs: permite pasar un numero variable de argumentos con nombre'''
 def imprimir_info(**kwargs):
     for clave, valor in kwargs.items():
         print(f"{clave}: {valor}")
