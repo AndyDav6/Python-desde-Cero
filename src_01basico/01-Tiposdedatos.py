@@ -23,5 +23,5 @@ print(mi_booleano)
 mi_striing = "¡Hola mundo!"
 print(mi_striing)
 
-"""Type: es para hacer decir que tipo de dato estamos
+"""Type: es para hacer nombrar que tipo de dato estamos
  enviando al terminal"""
