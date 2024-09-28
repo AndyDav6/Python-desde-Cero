@@ -25,3 +25,8 @@ print(mi_striing)
 
 """Type: es para hacer nombrar que tipo de dato estamos
  enviando al terminal"""
+
+# SI QUIERES SABER COMO FUNCIONA EL CODIGO AQUI TIENES ESTE RECURSO
+# QUE TE EXPLICA PASO A PASO:
+# ↓↓↓↓↓
+# https://pythontutor.com/python-compiler.html#mode=edit

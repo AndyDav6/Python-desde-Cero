@@ -95,6 +95,7 @@ resultado_suma, resultado_resta = operaciones(93, 5)
 print(resultado_suma)
 print(resultado_resta)
 
-"""Función sin parámetros: Define una función llamada imprimir_mensaje que imprima el mensaje “¡Aprendiendo Python!”. """
-"""Función con parámetros: Define una función llamada suma que tome dos números como parámetros y devuelva su suma."""
-"""Llamada a funciones: Llama a las funciones imprimir_mensaje y suma con los parámetros adecuados."""
+# SI QUIERES SABER COMO FUNCIONA EL CODIGO AQUI TIENES ESTE RECURSO
+# QUE TE EXPLICA PASO A PASO:
+# ↓↓↓↓↓
+# https://pythontutor.com/python-compiler.html#mode=edit
